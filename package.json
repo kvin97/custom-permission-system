@@ -1,0 +1,13 @@
+{
+  "name": "custom-permission-system",
+  "version": "1.0.0",
+  "description": "This codebase implements custom permission handling through a hybrid approach that combines ABAC and RBAC",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./__test__/AgreementServiceTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
